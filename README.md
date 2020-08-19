@@ -1,6 +1,6 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
-This repository is for a React practice project developed between January 10 - 11, 2020. The app randomly generates a popular meme image from an API and allows users to place text over the top of the image, and personalized them.
+This repository is for a React practice project developed between January 10 - 11, 2020. The app randomly generates a popular meme image from an API and allows users to place text over the top of the image, and personalized them. A new image will display every time the gen button is clicked.
 
 ## Getting Started
 You can download a zip file, fork this project, or clone with HTTPS.
